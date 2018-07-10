@@ -1,0 +1,23 @@
+{
+  "id": "6560ef7a-7dd4-499b-a09f-9a57e9aa07a5",
+  "name": "RoleCenterID",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50101,
+    "to": 50149
+  }
+}

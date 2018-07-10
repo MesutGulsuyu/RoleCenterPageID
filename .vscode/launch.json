@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "http://localhost",
+            "serverInstance": "NAV_OTHER_EXT_110_20783",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "port": 1115
+        }
+    ]
+}
